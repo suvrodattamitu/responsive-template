@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+
+body{
+	font-family: 'Lora' ;
+}
+
+.row{
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+.box{
+	height:470px;
+	background-color: red;
+	background: red;
+	margin: 10%;
+}
+
+.left{
+	float: left;
+}

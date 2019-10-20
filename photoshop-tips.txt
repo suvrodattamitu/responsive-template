@@ -1,0 +1,4 @@
+1.image cut -> ctrl + alt + eye_button 
+
+then , you can export it from file or 
+	   you can save for web from image
